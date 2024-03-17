@@ -1,0 +1,31 @@
+.reg-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(101, 245, 236);
+  background: linear-gradient(
+    90deg,
+    rgba(101, 245, 236, 1) 0%,
+    rgba(244, 50, 226, 1) 35%,
+    rgba(117, 250, 141, 1) 100%
+  );
+
+  /* background: linear-gradient(90deg, #d53369 0%, #daae51 100%); */
+}
+.profile-img {
+  border-radius: 50% !important;
+}
+.img {
+  height: 80px !important;
+  width: 80px !important;
+  border-radius: 50%;
+}
+.input-field{
+  width: 70%;
+}
+.colors{
+  background-color: rgb(245, 233, 129);
+}
+.color-text{
+  font-size: 14px;
+}

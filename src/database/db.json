@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Nick",
+      "salary": "300000",
+      "company": "TCS",
+      "img": "https://wallpapercave.com/wp/wp6679056.jpg",
+      "color": "red",
+      "id": "2"
+    },
+    {
+      "name": "Muttu",
+      "salary": "200000",
+      "company": "Hospital",
+      "img": "https://4.bp.blogspot.com/-mp3fI4LYTcU/WONLDYypz_I/AAAAAAAAFe0/QxocLW1oEBUi7jnuWbJeW9LOKTZrGT6YQCK4B/s1600/Upendra%2B%2528actor%2529%2Bprofile%2Bfamily%252C%2Bwiki%2BAge%252C%2BAffairs%252C%2BBiodata%252C%2BHeight%252C%2BWeight%252C%2Bwife%252C%2BBiography%2Bgo%2Bprofilee.jpg",
+      "color": "yellow",
+      "id": "cd6b"
+    }
+  ]
+}
